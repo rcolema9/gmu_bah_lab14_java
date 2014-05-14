@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e6fba68-3e7b-49b9-9d5f-ae0de045d3f2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/edu/gmu/bah/class14/lab2/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/edu/gmu/bah/class14/lab2/Coupe.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/edu/gmu/bah/class14/lab1/HelloWorld.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/edu/gmu/bah/class14/lab3/ListExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/edu/gmu/bah/class14/lab3/MapExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/edu/gmu/bah/class14/lab2/Vehicle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmu_bah_lab14_java.iml" />
-    </list>
+    <list default="true" id="6e6fba68-3e7b-49b9-9d5f-ae0de045d3f2" name="Default" comment="" />
     <ignored path="gmu_bah_lab14_java.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -104,8 +96,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state line="21" column="0" selection-start="484" selection-end="484" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#269#277#0" expanded="true" />
+                <marker date="1400023553463" expanded="true" signature="225:480" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -495,7 +486,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="0" width="657" height="984" extended-state="0" />
+    <frame x="-2" y="0" width="657" height="984" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -515,7 +506,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.48085758" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295838" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295838" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -604,8 +595,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="0" selection-start="484" selection-end="484" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#269#277#0" expanded="true" />
+            <marker date="1400023553463" expanded="true" signature="225:480" placeholder="{...}" />
           </folding>
         </state>
       </provider>
